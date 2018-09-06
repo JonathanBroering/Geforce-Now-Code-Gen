@@ -1,5 +1,6 @@
 Hello.
 
+the tool isnt working anymore, Nvidia fixed it.
 This tool is here for generating Geforce now codes.
 Just download the python script and run it. 
 
@@ -7,4 +8,4 @@ Just download the python script and run it.
 
 Contact me:
 @JonathanDOTexe (twitter)
-me [at] jnthn [dot] party
+me [at] jonathanb [dot] de
