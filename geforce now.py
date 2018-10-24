@@ -1,5 +1,5 @@
 import random
-print('This is a free Project by Jonathan (Jnthn) licenced under the MIT License. [jnthn.party]')
+print('This is a free Project by Jonathan B. licenced under the MIT License. [jonathanb.de]')
 
 randomint = random.randint(1, 999999)
 if randomint <= 9:
