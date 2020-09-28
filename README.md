@@ -1,11 +1,4 @@
-Hello.
+# This Script does not work anymore, im sorry!
 
-the tool isnt working anymore, Nvidia fixed it.
-This tool is here for generating Geforce now codes.
-Just download the python script and run it. 
+This script used to generate Geforce Now Beta Codes. Nvidia has basically screwed up the way they generated the invite codes and therefor you could generate them very easy.
 
-[Python must be installed]
-
-Contact me:
-@JonathanDOTexe (twitter)
-me [at] jonathanb [dot] de
